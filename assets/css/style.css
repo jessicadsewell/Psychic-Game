@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightyellow;
+}
+
+body {
+    background-image: url('https://www.yourdailytarot.com/wp-content/uploads/2017/07/Psychic-Reading-Online.jpg');
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+}
+
+div {
+    width: 400px;
+    background-color: rosybrown;
+    text-align: center;
+    margin: auto;
+    margin-top: 60px;
+    font-size: large;
+}
