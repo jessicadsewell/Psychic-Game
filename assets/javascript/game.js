@@ -35,4 +35,5 @@ document.onkeyup = function(event) {
     document.getElementById("losses-text").innerHTML = "Losses: " + losses;
     document.getElementById("guesses-left").innerHTML = "Guesses left: " + guessesLeft;
     document.getElementById("guessesSoFar").innerHTML = "Your Guesses so far: " + guessesSoFar;
+    computerChoice = alphabet[Math.floor(Math.random() * alphabet.length)];
 }
